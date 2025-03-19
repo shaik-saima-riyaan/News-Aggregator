@@ -1,5 +1,8 @@
 📢 News Aggregator
-A simple web-based news aggregator that fetches and displays real-time news from various sources using the News API.
+
+A simple web-based news aggregator that fetches 
+and displays real-time news from various sources using 
+the News API.
 
 🚀 Features
 
